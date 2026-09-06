@@ -1,1 +1,1 @@
-dtc bus pass all rou
+dtc bus pass all ro
