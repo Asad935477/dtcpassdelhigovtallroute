@@ -1,1 +1,1 @@
-dtc bus pass all route ac ne delhi
+dtc bus pass all route ac new delhi
