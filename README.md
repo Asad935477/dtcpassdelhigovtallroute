@@ -1,1 +1,1 @@
-dtc bus pass all route ac new delhi
+dtc bus pass all route ac new del
