@@ -1,1 +1,1 @@
-dtc bus pass all route ac ne
+dtc bus pass all route ac n
