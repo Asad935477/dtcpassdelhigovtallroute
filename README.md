@@ -1,1 +1,1 @@
-dtc bus pass all route ac new del
+dtc bus pass all route ac new de
