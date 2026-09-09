@@ -1,1 +1,1 @@
-dtc bus pass all root ac
+dtc bus pass all root ace
