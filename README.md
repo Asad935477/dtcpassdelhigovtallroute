@@ -1,1 +1,1 @@
-dtc bus pass all roo
+dtc bus pass all root
